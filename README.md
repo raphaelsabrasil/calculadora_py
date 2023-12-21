@@ -1,3 +1,3 @@
-Calculadora_py
+Calculadora Python
 
 Primeiro projeto em Python
